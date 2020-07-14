@@ -1,0 +1,7 @@
+{
+  "name": "hmscordovaionic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
