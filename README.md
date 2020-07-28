@@ -13,8 +13,11 @@ For this project, you will need to use the following plugins for Cordova.
 
 [FCM](https://ionicframework.com/docs/native/fcm): Firebase plugin
 
+Install the android platform 
+```bash
+ionic cordova platform add android
+```
 Install the plugins using the following command
-
 
 ```bash
 ionic cordova plugin add CORDOVA_PLUGIN_PATH
