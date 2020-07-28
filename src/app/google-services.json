@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1099010434452",
+    "firebase_url": "https://hmscordovaionic.firebaseio.com",
+    "project_id": "hmscordovaionic",
+    "storage_bucket": "hmscordovaionic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099010434452:android:8b9de95d9490c62d819b81",
+        "android_client_info": {
+          "package_name": "com.hms.cordova.pushkitdemojdgp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099010434452-64opk1vu83bboij01r7qbmb2p0v6q476.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeymSFyW7x0Mj1Ff89J4za7i9r89udOXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099010434452-64opk1vu83bboij01r7qbmb2p0v6q476.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

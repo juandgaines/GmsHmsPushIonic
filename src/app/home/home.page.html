@@ -1,20 +1,19 @@
 <ion-header [translucent]="true">
   <ion-toolbar>
     <ion-title>
-      Blank
+      Push example for FNA
     </ion-title>
   </ion-toolbar>
 </ion-header>
 
-<ion-content [fullscreen]="true">
-  <ion-header collapse="condense">
-    <ion-toolbar>
-      <ion-title size="large">Blank</ion-title>
-    </ion-toolbar>
-  </ion-header>
+<ion-content>
+  <ion-card>
+    <ion-img src="https://developer.huawei.com/Enexport/sites/default/images/HDD/appsup-pc2.jpg"></ion-img>
+    <ion-card-header>
+      <ion-card-title> Push G+H Activity</ion-card-title>
+    </ion-card-header>
+  </ion-card>
 
-  <div id="container">
-    <strong>Ready to create an app?</strong>
-    <p>Start with Ionic <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
-  </div>
+  <ion-button expand="block" (click) ="sendPush()" >Push!</ion-button>
+
 </ion-content>
