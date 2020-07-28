@@ -12,6 +12,7 @@ For this project, you will need to use the following plugins for Cordova.
 -[cordova-plugin-hms-push-4.0.3](https://developer.huawei.com/consumer/en/doc/HMS-Plugin-Library-V1/cordova-sdk-download-0000001050133798-V1): Huawei Push kit pluging.
 
 -[FCM](https://ionicframework.com/docs/native/fcm): Firebase plugin
+
 -[HTTP](https://ionicframework.com/docs/native/http): Http requests plugin
 
 Install the android platform 
